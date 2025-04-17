@@ -1,4 +1,3 @@
-
 # AWS Cost Optimizer Demo
 
 ## Description
